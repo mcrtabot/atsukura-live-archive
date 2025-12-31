@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atsukura-live-archive/static/css/main.d46ab313.css",
+    "main.js": "/atsukura-live-archive/static/js/main.b85c43df.js",
+    "static/js/787.604dbd6b.chunk.js": "/atsukura-live-archive/static/js/787.604dbd6b.chunk.js",
+    "index.html": "/atsukura-live-archive/index.html",
+    "main.d46ab313.css.map": "/atsukura-live-archive/static/css/main.d46ab313.css.map",
+    "main.b85c43df.js.map": "/atsukura-live-archive/static/js/main.b85c43df.js.map",
+    "787.604dbd6b.chunk.js.map": "/atsukura-live-archive/static/js/787.604dbd6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d46ab313.css",
+    "static/js/main.b85c43df.js"
+  ]
+}

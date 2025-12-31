@@ -1,0 +1,19 @@
+{
+  "short_name": "アツクラLIVE!",
+  "name": "アツクラLIVE!",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "theme_color": "#0f0f0f",
+  "background_color": "#0f0f0f"
+}
